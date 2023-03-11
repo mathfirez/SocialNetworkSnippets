@@ -10,7 +10,7 @@
 
 - `Profile Picture Generation and Scaling` Generates round profile pictures without background in different sizes.
 
-# :handshake: Tech
+# :hammer: Tech and Tools
 - `Python`
 - 
 
